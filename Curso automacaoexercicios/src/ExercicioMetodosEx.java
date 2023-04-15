@@ -12,7 +12,3 @@ public class ExercicioMetodosEx{
         System.out.println(texto(primeiroTexto, segundoTexto));
             }
     }
-    //3- Criar 1 método com o retorno que some dois valores e se for maior que 100, retorne true.
-    public statis boolean maiorQueCem(int valor1, int valor2){
-        
-    }
