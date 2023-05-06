@@ -10,7 +10,6 @@ import javax.swing.JOptionPane;
  palavra1=palavra2;
  palavra2=palavra3;
 
-
     System.out.println(palavra1);
     System.out.println(palavra2);}
 
